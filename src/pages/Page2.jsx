@@ -104,17 +104,7 @@ export const Page2 = () => {
             />
           </a>
           <a
-            href="https://twitter.com/tejas_shekar"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaTwitter
-              className=" hover:text-sky-400"
-              style={{width: "2rem", height: "2rem"}}
-            />
-          </a>
-          <a
-            href="https://www.linkedin.com/in/tejasbc"
+            href="https://www.linkedin.com/in/tejasshekar"
             target="_blank"
             rel="noreferrer"
           >
